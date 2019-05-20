@@ -16,7 +16,7 @@
 
 - Also you can use this command to use this script in background
   ~~~~
-  nohup python3.py &
+  nohup python3 main.py &
   ~~~~
 - And you can kill using:
   ~~~~
